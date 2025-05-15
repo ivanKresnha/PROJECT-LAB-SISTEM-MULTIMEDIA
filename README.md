@@ -35,6 +35,6 @@ Proyek ini dibuat untuk keperluan praktikum dan tidak digunakan untuk tujuan kom
 
 ---
 
-> Dibuat oleh: [Nama Anda]  
-> NPM: [NPM Anda]  
-> Universitas Gunadarma – 2024
+> Dibuat oleh: [Rivan duta kresnha]  
+> NPM: [51421330]  
+> Universitas Gunadarma – 2025
